@@ -6,10 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 text-center">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold mb-8">Ready to become the recognized authority in your field?</h2>
-          <p className="text-lg text-white/90 mb-12">
-            This launches January 15th, 2025. We're taking 20 founders maximum for the pilot program.
-          </p>
-          
+          <p className="text-lg text-white/90 mb-12">          
           <Button size="lg" className="text-xl px-12 py-6 mb-8 bg-white text-primary hover:bg-white/90 shadow-button">
             Book Your 15-Minute Strategy Call
           </Button>
