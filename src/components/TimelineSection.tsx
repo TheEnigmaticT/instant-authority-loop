@@ -6,7 +6,7 @@ const TimelineSection = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
           <div className="flex justify-center mb-8">
-            <div className="w-36 h-36 rounded-full border-4 border-cyan-500 bg-white flex items-center justify-center shadow-lg">
+            <div className="w-36 h-36 rounded-full border-[10px] border-cyan-500 bg-white flex items-center justify-center shadow-lg">
               <img 
                 src="/lovable-uploads/f50ce551-bbdf-40a9-9687-a919480ce724.png" 
                 alt="90 day timeline hot air balloon" 
