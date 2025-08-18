@@ -4,11 +4,11 @@ const ProblemSection = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
           <div className="flex justify-center mb-8">
-            <div className="w-24 h-24 rounded-full border-4 border-primary bg-white/10 backdrop-blur-sm flex items-center justify-center">
+            <div className="w-36 h-36 rounded-full border-6 border-primary bg-white/10 backdrop-blur-sm flex items-center justify-center">
               <img 
                 src="/lovable-uploads/dba78962-8384-477f-bb6d-6c1cda892872.png" 
                 alt="Thought leadership problems" 
-                className="w-16 h-16 object-contain"
+                className="w-24 h-24 object-contain"
               />
             </div>
           </div>
