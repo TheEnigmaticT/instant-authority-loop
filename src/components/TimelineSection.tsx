@@ -10,9 +10,9 @@ const TimelineSection = () => {
           </h2>
           
           <div className="space-y-8">
-            <Card className="p-8 bg-gradient-to-r from-primary/10 to-primary/5 border-primary/20">
+            <Card className="p-8 bg-white border-primary/20 shadow-card">
               <div className="flex items-start">
-                <div className="bg-primary text-primary-foreground rounded-full w-12 h-12 flex items-center justify-center font-bold text-xl mr-6 flex-shrink-0">
+                <div className="bg-primary text-white rounded-full w-12 h-12 flex items-center justify-center font-bold text-xl mr-6 flex-shrink-0">
                   1
                 </div>
                 <div>
@@ -27,9 +27,9 @@ const TimelineSection = () => {
               </div>
             </Card>
 
-            <Card className="p-8 bg-gradient-to-r from-accent/10 to-accent/5 border-accent/20">
+            <Card className="p-8 bg-white border-primary/20 shadow-card">
               <div className="flex items-start">
-                <div className="bg-accent text-accent-foreground rounded-full w-12 h-12 flex items-center justify-center font-bold text-xl mr-6 flex-shrink-0">
+                <div className="bg-primary text-white rounded-full w-12 h-12 flex items-center justify-center font-bold text-xl mr-6 flex-shrink-0">
                   2
                 </div>
                 <div>
@@ -44,9 +44,9 @@ const TimelineSection = () => {
               </div>
             </Card>
 
-            <Card className="p-8 bg-gradient-to-r from-secondary to-muted border-border">
+            <Card className="p-8 bg-white border-primary/20 shadow-card">
               <div className="flex items-start">
-                <div className="bg-muted-foreground text-background rounded-full w-12 h-12 flex items-center justify-center font-bold text-xl mr-6 flex-shrink-0">
+                <div className="bg-primary text-white rounded-full w-12 h-12 flex items-center justify-center font-bold text-xl mr-6 flex-shrink-0">
                   3
                 </div>
                 <div>

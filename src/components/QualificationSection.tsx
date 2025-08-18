@@ -8,7 +8,7 @@ const QualificationSection = () => {
           </h2>
           
           <div className="grid md:grid-cols-2 gap-8">
-            <div className="bg-destructive/10 rounded-xl p-8 border-destructive/20">
+            <div className="bg-white rounded-xl p-8 border-destructive/20 shadow-card border-l-4 border-l-destructive">
               <h3 className="text-2xl font-bold mb-6 text-destructive">❌ This isn't for you if:</h3>
               <ul className="space-y-4 text-foreground">
                 <li>• You're looking for quick followers or vanity metrics</li>
@@ -18,7 +18,7 @@ const QualificationSection = () => {
               </ul>
             </div>
             
-            <div className="bg-primary/10 rounded-xl p-8 border-primary/20">
+            <div className="bg-white rounded-xl p-8 border-primary/20 shadow-card border-l-4 border-l-primary">
               <h3 className="text-2xl font-bold mb-6 text-primary">✅ This is perfect if:</h3>
               <ul className="space-y-4 text-foreground">
                 <li>• You're building a serious business (not a side hustle)</li>
