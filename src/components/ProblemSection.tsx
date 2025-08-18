@@ -3,6 +3,15 @@ const ProblemSection = () => {
     <section className="py-20 section-gradient">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
+          <div className="flex justify-center mb-8">
+            <div className="w-24 h-24 rounded-full border-4 border-primary bg-white/10 backdrop-blur-sm flex items-center justify-center">
+              <img 
+                src="/lovable-uploads/dba78962-8384-477f-bb6d-6c1cda892872.png" 
+                alt="Thought leadership problems" 
+                className="w-16 h-16 object-contain"
+              />
+            </div>
+          </div>
           <h2 className="text-3xl md:text-5xl font-bold mb-12 text-center">
             <span className="text-muted-foreground">Most "thought leadership" advice is</span>{" "}
             <span className="text-destructive">garbage.</span>

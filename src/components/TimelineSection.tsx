@@ -5,6 +5,15 @@ const TimelineSection = () => {
     <section className="py-20 bg-background">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
+          <div className="flex justify-center mb-8">
+            <div className="w-24 h-24 rounded-full border-4 border-primary bg-white flex items-center justify-center shadow-lg">
+              <img 
+                src="/lovable-uploads/ae3dca56-957b-4e64-81ca-2b7ab6cf6a0e.png" 
+                alt="90 day timeline" 
+                className="w-16 h-16 object-contain"
+              />
+            </div>
+          </div>
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-16">
             What you get in 90 days:
           </h2>

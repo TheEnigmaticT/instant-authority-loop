@@ -5,6 +5,15 @@ const SolutionSection = () => {
     <section className="py-20 bg-background">
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
+          <div className="flex justify-center mb-8">
+            <div className="w-24 h-24 rounded-full border-4 border-primary bg-white flex items-center justify-center shadow-lg">
+              <img 
+                src="/lovable-uploads/d62ddac7-e8b8-4d1d-b482-19c9c04c715d.png" 
+                alt="Authority engine" 
+                className="w-16 h-16 object-contain"
+              />
+            </div>
+          </div>
           <h2 className="text-3xl md:text-5xl font-bold text-center mb-4">
             The Instant Authority Engine combines
           </h2>
