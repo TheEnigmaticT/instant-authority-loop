@@ -1,7 +1,16 @@
 import { Button } from "@/components/ui/button";
+import heroBg from "@/assets/hero-abstract-bg.jpg";
+
 const HeroSection = () => {
   return (
-    <section className="relative min-h-screen flex items-center justify-center bg-gradient-hero overflow-hidden">
+    <section 
+      className="relative min-h-screen flex items-center justify-center bg-gradient-hero overflow-hidden"
+      style={{ 
+        backgroundImage: `linear-gradient(135deg, hsl(191 100% 50% / 0.9), hsl(191 100% 40% / 0.9)), url(${heroBg})`, 
+        backgroundSize: 'cover', 
+        backgroundPosition: 'center' 
+      }}
+    >
       <div className="container relative z-10 mx-auto px-4 text-center">
         <div className="max-w-5xl mx-auto">
           <h1 className="text-5xl md:text-7xl font-bold mb-8 leading-tight">
