@@ -6,10 +6,10 @@ const TimelineSection = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
           <div className="flex justify-center mb-8">
-            <div className="w-36 h-36 rounded-full border-6 border-primary bg-white flex items-center justify-center shadow-lg">
+            <div className="w-36 h-36 rounded-full border-4 border-cyan-500 bg-white flex items-center justify-center shadow-lg">
               <img 
-                src="/lovable-uploads/ae3dca56-957b-4e64-81ca-2b7ab6cf6a0e.png" 
-                alt="90 day timeline" 
+                src="/lovable-uploads/f50ce551-bbdf-40a9-9687-a919480ce724.png" 
+                alt="90 day timeline hot air balloon" 
                 className="w-24 h-24 object-contain"
               />
             </div>

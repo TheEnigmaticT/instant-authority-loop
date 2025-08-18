@@ -6,7 +6,7 @@ const SolutionSection = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
           <div className="flex justify-center mb-8">
-            <div className="w-36 h-36 rounded-full border-6 border-primary bg-white flex items-center justify-center shadow-lg">
+            <div className="w-36 h-36 rounded-full border-4 border-cyan-500 bg-white flex items-center justify-center shadow-lg">
               <img 
                 src="/lovable-uploads/d62ddac7-e8b8-4d1d-b482-19c9c04c715d.png" 
                 alt="Authority engine" 
