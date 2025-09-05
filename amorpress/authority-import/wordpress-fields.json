@@ -1,0 +1,294 @@
+{
+    "page_name": "authority-import",
+    "import_date": "2025-09-05T19:25:27+00:00",
+    "fields": [
+        {
+            "name": "authority-import-react-text-1",
+            "type": "text",
+            "label": "React Text: >\n  <head>\n    <meta charset=",
+            "value": ">\n  <head>\n    <meta charset=",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-2",
+            "type": "text",
+            "label": "React Text: \/>\n    <meta name=",
+            "value": "\/>\n    <meta name=",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-3",
+            "type": "text",
+            "label": "React Text: width=device-width, initial-sc...",
+            "value": "width=device-width, initial-scale=1.0",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-4",
+            "type": "text",
+            "label": "React Text: description",
+            "value": "description",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-5",
+            "type": "text",
+            "label": "React Text: Become a recognized industry e...",
+            "value": "Become a recognized industry expert in your field in just 90 days",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-6",
+            "type": "text",
+            "label": "React Text: CrowdTamers x JoeySendz",
+            "value": "CrowdTamers x JoeySendz",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-7",
+            "type": "text",
+            "label": "React Text: preconnect",
+            "value": "preconnect",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-8",
+            "type": "text",
+            "label": "React Text: stylesheet",
+            "value": "stylesheet",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-9",
+            "type": "text",
+            "label": "React Text: instant-authority-loop",
+            "value": "instant-authority-loop",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-10",
+            "type": "text",
+            "label": "React Text: og:description",
+            "value": "og:description",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-11",
+            "type": "text",
+            "label": "React Text: Lovable Generated Project",
+            "value": "Lovable Generated Project",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-12",
+            "type": "text",
+            "label": "React Text: \/>\n    <meta property=",
+            "value": "\/>\n    <meta property=",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-13",
+            "type": "text",
+            "label": "React Text: \/>\n\n    <meta name=",
+            "value": "\/>\n\n    <meta name=",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-14",
+            "type": "text",
+            "label": "React Text: summary_large_image",
+            "value": "summary_large_image",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-15",
+            "type": "text",
+            "label": "React Text: twitter:site",
+            "value": "twitter:site",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-16",
+            "type": "text",
+            "label": "React Text: @lovable_dev",
+            "value": "@lovable_dev",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-17",
+            "type": "text",
+            "label": "React Text: twitter:image",
+            "value": "twitter:image",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-18",
+            "type": "text",
+            "label": "React Text: \/>\n    <script type=",
+            "value": "\/>\n    <script type=",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-19",
+            "type": "text",
+            "label": "React Text: crossorigin src=",
+            "value": "crossorigin src=",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-20",
+            "type": "text",
+            "label": "React Text: ><\/script>\n    <link rel=",
+            "value": "><\/script>\n    <link rel=",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-21",
+            "type": "text",
+            "label": "React Text: crossorigin href=",
+            "value": "crossorigin href=",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-22",
+            "type": "text",
+            "label": "React Text: >\n  <script defer src=",
+            "value": ">\n  <script defer src=",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-23",
+            "type": "text",
+            "label": "React Text: data-proxy-url=",
+            "value": "data-proxy-url=",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        },
+        {
+            "name": "authority-import-react-text-24",
+            "type": "text",
+            "label": "React Text: ><\/script><\/head>\n\n  <body>\n  ...",
+            "value": "><\/script><\/head>\n\n  <body>\n    <div id=",
+            "element": "react",
+            "context": {
+                "div_name": "react",
+                "parent_classes": [],
+                "parent_ids": []
+            }
+        }
+    ]
+}
